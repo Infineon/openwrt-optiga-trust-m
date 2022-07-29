@@ -1,0 +1,3 @@
+[submodule "linux-optiga-trust-m"]
+	path = linux-optiga-trust-m
+	url = https://github.com/Infineon/linux-optiga-trust-m.git
