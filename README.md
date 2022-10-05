@@ -1,6 +1,6 @@
 # OpenWRT tools and examples</br> for OPTIGA™ Trust M1/M3 security solution
 
-This is the repository for OPTIGA Trust M1/M3 on OpenWrt.
+This is the repository for OPTIGA™ Trust M on OpenWrt. OpenWrt is a highly extensible GNU/Linux distribution for embedded devices (typically wireless routers and gateway).  Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. In this repository, the steps to integrate OPTIGA™ Trust M1/M3 into OpenWrt are shown. Together with OPTIGA™ Trust M a hardware-based security solution and its set of security features, it can be used to perform authentication, crypto operations,  and serve as a hardware root of trust to protect the wireless routers or gateway.
 
 # Table of content
 
